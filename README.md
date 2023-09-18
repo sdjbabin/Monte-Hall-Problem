@@ -27,8 +27,8 @@ We conducted 10,000 simulations of the standard Monty Hall problem with three do
 With the "Switch Strategy," the win percentage was consistently close to 66%, illustrating the advantage of switching.
 With the "Stay Strategy," the win percentage was consistently close to 33%, highlighting the lower success rate.
 
-# Extending to 100 Doors
-We extended the problem to 100 doors, allowing customization of the number of revealed doors before making a choice.
+# Extending to n Doors
+We extended the problem to n doors, allowing customization of the number of revealed doors before making a choice.
 We conducted 10,000 simulations for each combination of the number of revealed doors.
 As expected, the advantage of the "Switch Strategy" was evident for various scenarios.
 By varying the number of revealed doors, we observed that the win percentage for the "Switch Strategy" increased significantly when fewer doors were revealed.
